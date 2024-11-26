@@ -1,0 +1,7 @@
+Tue Nov 26 11:07:40 AM NST 2024
+readme.txt
+oops
+cat readme.txt
+cat readme.txt
+Welcome to the Linux Test
+This file was created as part of the text
